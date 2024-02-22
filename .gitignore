@@ -4,6 +4,8 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+LICENSE
+
 ### STS ###
 .apt_generated
 .classpath
@@ -15,7 +17,6 @@ target/
 
 ### IntelliJ IDEA ###
 .idea
-target
 *.iws
 *.iml
 *.ipr
